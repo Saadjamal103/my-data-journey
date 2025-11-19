@@ -1,7 +1,11 @@
 # My Data Journey Portfolio
 
-This repository contains my data analysis projects as I learn data science.
+Welcome to my data science portfolio! I'm currently learning and building projects.
 
 ## Projects
-- Project 1: [Coming soon]
-- Project 2: [Coming soon]
+- **Project 1:** [Coming soon - First analysis project]
+- **Project 2:** [Coming soon - Data visualization project]
+
+## Skills I'm Learning
+- Python, Pandas, SQL
+- Data Analysis & Visualization
